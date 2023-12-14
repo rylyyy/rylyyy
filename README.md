@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Python/js/c#
 - 💞️ I’m looking to collaborate on projects and become more proficient in other languages 
-- 📫 How to reach me ...
+- 📫 send me a PM to get a hold of me! 
 
 <!---
 rylyyy/rylyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
